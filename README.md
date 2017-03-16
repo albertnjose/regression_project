@@ -58,6 +58,7 @@ Furious 7 was an outlier, according to the influence plot below. This could have
 ![Leverage](images/influence.png)
 
 This shows a normal distribution of the residuals.
+
 ![Histogram](images/resid_histo.png)
 
 ## Lessons Learned
